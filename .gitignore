@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+system_log.db
+config.py
